@@ -9,5 +9,6 @@ My name is Breno Santos. I'm from Brazil 🌍. I'm a Computer Science student an
 - 👨‍💻 	Student
 
 Reach me out 👇
-
-![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&src=https://www.instagram.com/brenosc1/)
+<a href="https://www.instagram.com/brenosc1/" target="_blank">
+![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+</a> 
