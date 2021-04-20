@@ -8,7 +8,8 @@ My name is Breno Santos. I'm from Brazil 🌍. I'm a Computer Science student an
 - 📍		From CE living in Fortaleza
 - 👨‍💻 	Student
 
-Reach me out 👇
+Reach me out 👇<br>
+
 <a href="https://www.instagram.com/brenosc1/" target="_blank">
 ![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </a> 
